@@ -1,0 +1,80 @@
+body {
+  background-color: #e2ebf1;
+  letter-spacing: 3px;
+  font-weight: 300;
+  max-width: 650px;
+  padding: 15px 60px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  font-size: 70px;
+  color: #165e84;
+  font-family: "Avenir Next Medium";
+  margin: 0 auto;
+}
+h2 {
+  font-family: "Avenir Next Ultra Light";
+  color: #165e84;
+  margin: 0 auto;
+}
+h3 {
+  font-family: "Josefin Sans", sans-serif;
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-top: 40px;
+  background-color: #165e84;
+  color: #fff;
+  padding: 15px;
+}
+h4 {
+  display: inline;
+  color: #e2ebf1;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+img {
+  max-width: 650px;
+}
+p {
+  font-family: "Avenir Next";
+  font-size: 16px;
+  text-align: justify;
+  text-align-last: center;
+}
+ul {
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li {
+  text-align: initial;
+  margin: 40px;
+  font-size: 16px;
+}
+li:active {
+  background-color: #165e84;
+  color: #e2ebf1;
+}
+label {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+a {
+  color: #165e84;
+}
+button {
+  font-size: 18px;
+  padding: 15px;
+  margin: 20px;
+  font-family: "Josefin Sans", sans-serif;
+  text-transform: uppercase;
+  background-color: #165e84;
+  color: #fff;
+  border: 2px solid #165e84;
+  border-radius: 20px;
+}
+button:hover {
+  background-color: #fff;
+  color: #165e84;
+  cursor: pointer;
+}
